@@ -41,7 +41,7 @@ public class MainActivity extends AppCompatActivity {
         }
 
         if (id == R.id.action_source) {
-            Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://github.com/gkazan"));
+            Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://github.com/gkazan/LiftTrack"));
             startActivity(browserIntent);
             return true;
         }
