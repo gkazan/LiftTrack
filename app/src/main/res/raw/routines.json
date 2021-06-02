@@ -1,0 +1,19 @@
+{
+  "routines": [
+    {
+      "name": "Arms",
+      "exercises": [
+        {
+          "name": "Bicep Curl",
+          "sets": [
+            {
+              "name": "Bicep Curl",
+              "reps": 10,
+              "weight": 12.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

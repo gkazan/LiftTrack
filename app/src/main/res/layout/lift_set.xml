@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@android:id/text1"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingStart="5sp"
+    android:paddingEnd="5sp"
+    android:orientation="horizontal" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <EditText
+            android:id="@+id/weight_edit"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:gravity="center_horizontal"
+            android:inputType="numberDecimal"
+            android:text="12.5"
+            android:textSize="15sp"
+           />
+
+        <EditText
+            android:id="@+id/reps_edit"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:gravity="center_horizontal"
+            android:inputType="number"
+            android:text="12"
+            android:textSize="15sp"
+            android:layout_marginStart="30sp"
+            />
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"/>
+
+        <Button
+            android:id="@+id/remove_set"
+            android:layout_width="40dp"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:layout_marginStart="30sp"
+            android:drawableLeft="@drawable/remove"
+            style="@style/Widget.MaterialComponents.Button.TextButton"
+            />
+
+        <CheckBox
+            android:id="@+id/completed_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:layout_marginStart="50sp"
+            />
+
+<!--        <CheckedTextView
+            android:id="@+id/checkbox"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceListItemSmall"
+            android:gravity="center_vertical"
+            android:checkMark="?android:attr/textCheckMark"
+            />-->
+
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Lift Track</string>
+    <string name="settings_description">Settings</string>
+    <string name="button_routines">Routines</string>
+    <string name="button_exercises">Exercises</string>
+    <string name="button_stats">Stats</string>
+    <string name="source">Source</string>
+    <string name="add">Add</string>
+    <string name="remove">Remove</string>
+    <string name="select_item">Select an item</string>
+    <string name="failed_create">Failed to create an exercise</string>
+    <string name="create_exercise">Create Exercise</string>
+    <string name="cancel">Cancel</string>
+    <string name="create">Create</string>
+    <string name="delete">Delete</string>
+    <string name="name">Name</string>
+    <string name="create_reverse">Create reverse</string>
+    <string name="start">Start</string>
+    <string name="edit">Edit</string>
+    <string name="edit_routine">Edit Routine</string>
+    <string name="routine_name">Routine Name</string>
+    <string name="reps">Reps</string>
+    <string name="complete">Complete</string>
+    <string name="weight">Weight</string>
+    <string name="add_exercise">Add Exercise</string>
+    <string name="ihave">Yeah, I did</string>
+    <string name="timer">Create Timer</string>
+    <string name="time">Timer</string>
+    <string name="_15">-15</string>
+    <string name="_15pl">+15</string>
+    <string name="finished">End Workout</string>
+    <string name="you_finished">Are you sure you want to end this workout?</string>
+    <string name="confirm">Finish</string>
+    <string name="saved">Saved</string>
+    <string name="settings_unavailable">Settings currently unavailable</string>
+</resources>

@@ -1,0 +1,74 @@
+{
+  "exercises": [
+    {
+      "name": "Barbell Curl"
+    },
+    {
+      "name": "Reverse Barbell Curl"
+    },
+    {
+      "name": "Crunch"
+    },
+    {
+      "name": "Flat Leg Raise"
+    },
+    {
+      "name": "Wrist Flexors"
+    },
+    {
+      "name": "Reverse Wrist Flexors"
+    },
+    {
+      "name": "Push-up",
+      "body_weight": true
+    },
+    {
+      "name": "Lateral Raise"
+    },
+    {
+      "name": "Front Raise"
+    },
+    {
+      "name": "Shrug"
+    },
+    {
+      "name": "Shoulder Press"
+    },
+    {
+      "name": "Pendlay Row"
+    },
+    {
+      "name": "Pull Up"
+    },
+    {
+      "name": "Chin Up"
+    },
+    {
+      "name": "Hammer Curl"
+    },
+    {
+      "name": "Wide Grip Curl"
+    },
+    {
+      "name": "Squat"
+    },
+    {
+      "name": "Triceps Extension"
+    },
+    {
+      "name": "Bicycle Crunch"
+    },
+    {
+      "name": "Side Bend"
+    },
+    {
+      "name": "Standing Claf Raise"
+    },
+    {
+      "name": "Bench Press"
+    },
+    {
+      "name": "Deadlift"
+    }
+  ]
+}
